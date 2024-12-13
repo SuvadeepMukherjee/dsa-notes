@@ -15,11 +15,11 @@
 
 ## Hello World
 
-##### Comments 
+#### Comments 
 
 Python interprets anything after a # as a comment 
 
-##### Print 
+#### Print 
 
 The print() function is used to tell a computer to talk .The message to be printed should be surrounded by quotes
 
